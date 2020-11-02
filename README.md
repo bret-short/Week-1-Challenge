@@ -1,1 +1,2 @@
-# Week-1-Challenge
+Week 1 Challenge
+Starter code was provided and needed to be refactored. In order to meet the specification certain changes were needed to the html to make the semantic flow better. When viewing teh html code now you will see different semantics that <div> to help break up the code. Title's were added to each image to provide a better experience for impaired readers. In the CSS code certain consolidations were made to eliminate unnecessary code from being cluttered. Also comments were added between each break to allow others working on the code to easily find what they are looking for. 
