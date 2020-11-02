@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header section start */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,10 @@ p {
     font-size: 16px;
 }
 
+/* header section ends */
+
+/* hero section starts */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +64,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* hero section ends */
 
 .float-left {
     float: left;
@@ -68,6 +76,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* content section start */
 
 .content {
     width: 75%;
@@ -121,6 +131,10 @@ p {
     font-size: 36px;
 }
 
+/* content section ends */
+
+/* footer section starts */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -131,3 +145,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* footer section ends */
